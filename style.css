@@ -1,0 +1,22 @@
+body {
+ text-align: center;      
+}
+h1 {
+  font-size:41px;
+  font-family: sans-serif;
+}
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: DodgerBlue;
+}
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: DodgerBlue;
+}
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: DodgerBlue;
+}
